@@ -1,7 +1,7 @@
 # Destiny Corporation
 
 <p align="center"> 
-  <img width="1000" height="300" src="https://github.com/Destiny-Corporation/.github/assets/93869144/9ae9a81b-afed-4bc0-89eb-de23cd27c8cf">
+  <img width="1000" height="300" src="https://github.com/Destiny-Corporation/.github/assets/96701270/405d0f8b-4bce-49c6-9126-dff11174381b">
 </p>
 
 ---
