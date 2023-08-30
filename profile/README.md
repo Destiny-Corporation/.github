@@ -1,12 +1,13 @@
 # Destiny Corporation
 
 <p align="center"> 
-  <img width="1000" height="300" src="https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/6e6b8973-af9d-4f9a-9ec0-aeafd54d3ebc">
+  <img width="1000" height="300" src="https://github.com/Destiny-Corporation/.github/assets/93869144/b74d4199-98ff-4cb5-9e2f-f69798a3ff09">
 </p>
 
 ---
 
-![About Us](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/db218e66-9499-40d5-9a98-ef568b3b84c9)
+![About us](https://github.com/Destiny-Corporation/.github/assets/93869144/c2c8de31-c0a3-4887-8bb1-1f3cb729eece)
+
 
 ### ✦ | About Us ⚡
 *Destiny Corporation is a software development company that originated from one of the courses in the curriculum of the Integrated Technical Course in Computer Science at IFCE Campus Fortaleza. Following the best motivations, values, and visions, we aim to turn our clients' dreams into reality.*
@@ -40,7 +41,8 @@
 
 ---
 
-![image](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/eb90129d-7fe7-4777-891d-1b70794c8d50)
+![Destiny's Childs](https://github.com/Destiny-Corporation/.github/assets/93869144/058d9464-a1b9-466a-b35a-e0a75871fb8e)
+
 
 ### ✦ | Destiny's Childs:
 <div align="center">
@@ -87,7 +89,7 @@
 
 ---
 
-![image](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/c2afa74f-b20d-4be3-85d7-6ce9ffc583fa)
+![infinite](https://github.com/Destiny-Corporation/.github/assets/93869144/8df1ad57-fc48-47b9-9d84-e6a93add274a)
 
 <h3 align="center"> » Connect with us:</h3>
 <div align="center">
