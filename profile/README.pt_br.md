@@ -5,8 +5,7 @@
 </p>
 
 ---
-
-![Quem Somos?](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/db218e66-9499-40d5-9a98-ef568b3b84c9)
+![Quem Somos?](https://github.com/Destiny-Corporation/.github/assets/93869144/1f9c846d-71bc-4332-9097-8902221a178a)
 
 ### ✦ | Sobre nós ⚡
   *A Destiny Corporation é uma empresa de desenvolvimento em software que nasceu a partir de uma das cadeiras da matriz curricular do curso Técnico Integrado em Informática no IFCE Campus Fortaleza. Seguindo as melhores motivações, valores e visões, buscamos tornar os sonhos dos nossos clientes realidade.*
@@ -36,7 +35,8 @@
 → **Responsabilidade Social e Ética:** Considerar o impacto social e ético das soluções de software desenvolvidas e garantir que essas soluções sejam benéficas para a sociedade.
 
 ---
-![image](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/eb90129d-7fe7-4777-891d-1b70794c8d50)
+
+![Destiny's Childs](https://github.com/Destiny-Corporation/.github/assets/93869144/34f67da6-3b25-4f7c-9f95-aa112b56ed65)
 
 ### ✦ | Destiny's Childs:
 <div align="center">
@@ -55,7 +55,8 @@
 </div>
 
 ---
-![image](https://github.com/Destiny-Corporation/Destiny-Corporation/assets/96701270/c2afa74f-b20d-4be3-85d7-6ce9ffc583fa)
+
+![infinite](https://github.com/Destiny-Corporation/.github/assets/93869144/95f5ce7e-3a20-4c26-bb91-089fa7674e59)
 
 <h3 align="center"> » Conecte-se conosco:</h3>
 <div align="center">
