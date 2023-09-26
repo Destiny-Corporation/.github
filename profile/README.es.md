@@ -93,6 +93,6 @@ La Destiny Corporation tiene diversos valores en sus pilares que aportan al merc
 
 
 #### _Read this in [other languages](translations/Translations.md)._
-<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt.br.md)</kbd>
+<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt_br.md)</kbd>
 <kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
 <kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
