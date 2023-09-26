@@ -91,7 +91,8 @@ La Destiny Corporation tiene diversos valores en sus pilares que aportan al merc
 <a href = "mailto:destinyscorporation@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
+
 #### _Read this in [other languages](translations/Translations.md)._
-<kbd>[<img title="Portuguese" alt="Português" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](profile/README.pt_br.md)</kbd>
-<kbd>[<img title="Spanish" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](profile/README.es.md)</kbd>
-<kbd>[<img title="French" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](profile/README.fr.md)</kbd>
+<kbd>[<img title="Portuguese" alt="Portuguese" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](README.pt.br.md)</kbd>
+<kbd>[<img title="Española" alt="Española" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/es.svg" width="22">](README.es.md)</kbd>
+<kbd>[<img title="Française" alt="Française" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/fr.svg" width="22">](README.fr.md)</kbd>
