@@ -12,6 +12,8 @@
 ### ✦ | About Us ⚡
 *Destiny Corporation is a software development company that originated from one of the courses in the curriculum of the Integrated Technical Course in Computer Science at IFCE Campus Fortaleza. Following the best motivations, values, and visions, we aim to turn our clients' dreams into reality.*
 
+*(We are open to new contributors)*
+
 ---
 
 ### ✦ | Mission 🏅
